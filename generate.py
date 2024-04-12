@@ -10,8 +10,8 @@ import matplotlib.pyplot as plt
 from uniform_mesh import *
 
 
-d1=1
-d2=1
+d1=2
+d2=2
 p=1
 m=1
 
